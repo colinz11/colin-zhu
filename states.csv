@@ -1,0 +1,23 @@
+state, bordering_state
+Georgia, Alabama
+Georgia, Florida
+Georgia, South Carolina
+Georgia, Tennessee
+Georgia, North Carolina
+Florida, Alabama
+Florida, Georgia
+Alabama, Georgia
+Alabama, Florida
+Alabama, Mississippi
+Alabama, Tennessee
+Mississippi, Alabama
+Mississippi, Tennessee
+South Carolina, North Carolina
+South Carolina, Georgia
+Tennessee, North Carolina
+Tennessee, Georgia
+Tennessee, Alabama
+Tennessee, Mississippi
+North Carolina, Georgia
+North Carolina, South Carolina
+North Carolina, Tennessee
