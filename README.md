@@ -1,2 +1,2 @@
 # colin-zhu
-Code written at Duke Tip Artifical Intellegence Class
+Code written at Duke Tip AI Class
